@@ -31,5 +31,4 @@ Firstly, it is impossible to learn all the theory. When even in the real world n
 
 Secondly, 
 
-
 I bet, in the sudden burst of motivation, we all have experienced this strive to learn everything today, just by watching for tutorials. Eventually, stuck in the loop of tutorial hell, where one is able to build only by coping the author. How can you overcome this obstacle and learn to build own ideas?
