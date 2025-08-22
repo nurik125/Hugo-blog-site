@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Blowfish</title>
-    <link>https://nurik125.github.io/Hugo-blog-site/categories/programming/</link>
+    <link>http://localhost:1313/Hugo-blog-site/categories/programming/</link>
     <description>Recent content in Programming on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Hugo-blog-site/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to sync after blog writing?</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/posts/how-to-sync-after-blog-writing/</link>
+      <link>http://localhost:1313/Hugo-blog-site/posts/how-to-sync-after-blog-writing/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://nurik125.github.io/Hugo-blog-site/posts/how-to-sync-after-blog-writing/</guid>
+      <guid>http://localhost:1313/Hugo-blog-site/posts/how-to-sync-after-blog-writing/</guid>
       <description>Explain how to sync obsidian posts and hugo posts using created script</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nurik125.github.io/Hugo-blog-site/posts/how-to-sync-after-blog-writing/feature_programming.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Hugo-blog-site/posts/how-to-sync-after-blog-writing/feature_programming.png" />
     </item>
     
   </channel>

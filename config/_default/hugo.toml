@@ -20,6 +20,7 @@ enableEmoji = true
 # googleAnalytics = "G-XXXXXXXXX"
 
 title = "Profile"
+titleCaseStyle = "chicago"
 
 [params.author]
   name = "Nurasik12"
