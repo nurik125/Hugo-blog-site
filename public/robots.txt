@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:1313/Hugo-blog-site/sitemap.xml
+Allow: /
+Sitemap: https://nurik125.github.io/Hugo-blog-site/sitemap.xml
