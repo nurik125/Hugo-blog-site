@@ -40,7 +40,7 @@ You’re trying to **be reflective**, which is excellent — but the ending feel
     
 - “Creating sort of acceptance” doesn’t explain what is accepted.
 
-![Image Description](/images/peak.jpg)
+![Image Description](/img/peak.jpg)
 
 **Suggestion**: Be specific about what _you_ felt or realized. Even just one or two clear emotional or thematic insights would make this stronger. %%
 

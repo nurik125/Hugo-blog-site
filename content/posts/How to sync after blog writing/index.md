@@ -19,4 +19,4 @@ status: Inprogress
 py ./scripts/update_content.py
 ```
 
-![Image Description](/images/Pasted%20image%2020250822144031.png)
+![Image Description](/img/Pasted_image_20250822144031.png)

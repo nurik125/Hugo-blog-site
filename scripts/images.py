@@ -8,14 +8,17 @@ import logging
 posts_dir = r"D:\Vaults\Regular(Main)\Blog\temp"
 attachments_dir = r"D:\Vaults\Regular(Main)\Blog\posts\attachments"
 
-# Relative var
-static_images_dir = r"static\images"
-
 # Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):
     if filename.endswith(".md"):
-        filepath = os.path.join(posts_dir, filename)
+        file_dir = os.path.join(posts_dir, filename.replace(".md", ""))
         
+        img_dir = os.path.join(file_dir, "img")
+        os.makedirs(img_dir, exist_ok=True)
+        
+        filepath = os.path.join(file_dir, "index.md")
+        os.rename(os.path.join(posts_dir, filename), filepath)
+
         with open(filepath, "r", encoding="utf-8") as file:
             content = file.read()
         
@@ -27,17 +30,19 @@ for filename in os.listdir(posts_dir):
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
             if image in featured:
-                markdown_image = ""
-                content = content.replace(f"![[{image}]]", markdown_image)
+                content = content.replace(f"![[{image}]]", "")
             else:
                 # Prepare the Markdown-compatible link with %20 replacing spaces
-                markdown_image = f"![Image Description](/images/{image.replace(' ', '%20')})"
+                new_image_name = image.replace(' ', '_')
+                markdown_image = f"![Image Description](/img/{new_image_name})"
                 content = content.replace(f"![[{image}]]", markdown_image)
                 
+
                 # Step 4: Copy the image to the Hugo static/images directory if it exists
                 image_source = os.path.join(attachments_dir, image)
                 if os.path.exists(image_source):
-                    shutil.copy(image_source, static_images_dir)
+                    shutil.copy(image_source, img_dir)
+                    os.rename(os.path.join(img_dir, image), os.path.join(img_dir, new_image_name))
                 else:
                     raise Exception(f"Image file does not exist: {image_source}")
 
@@ -48,14 +53,6 @@ for filename in os.listdir(posts_dir):
         if len(featured) > 1:
             raise Exception(f"More than one feature found limit of 1 feature exceeded: {featured}")
         elif len(featured) == 1:
-            new_post_dir = os.path.join(posts_dir, filename[:-3]+"\\")
-            os.makedirs(new_post_dir, exist_ok=True)
-            new_filepath = os.path.join(posts_dir, "index.md")
-            if not(os.path.exists(new_filepath)):
-                os.rename(filepath, new_filepath)
-                shutil.move(new_filepath, new_post_dir)
-                shutil.copy(os.path.join(attachments_dir, featured[0]), new_post_dir)
-            else:
-                raise Exception(f"File index.md already exists in {posts_dir}" + FileExistsError)
+            shutil.copy(os.path.join(attachments_dir, featured[0]), file_dir)
 
 logging.info("Markdown files processed and images copied successfully.")
