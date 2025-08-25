@@ -1,3 +1,2 @@
-$temp_dir = "D:\Vaults\Regular(Main)\Blog\temp"
+# Write-Host ("ba" @= "ba")
 
-Remove-Item $temp_dir

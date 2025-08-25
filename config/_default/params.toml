@@ -22,7 +22,7 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = false
+disableTextInHeader = true
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
@@ -54,12 +54,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   mainSections = ["blog"]
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
-  cardView = true
-  cardViewScreenWidth = true
-  layoutBackgroundBlur = false # only used when layout equals background
+  showMoreLink = true
+  showMoreLinkDest = "./posts/"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
+
+  
 
 [article]
   showDate = true

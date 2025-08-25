@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Education</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/education/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/education/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/programming/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/project/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/project/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Obsidian</title>
@@ -20,41 +50,11 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/categories/programming/</link>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://nurik125.github.io/Hugo-blog-site/categories/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/categories/project/</link>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://nurik125.github.io/Hugo-blog-site/categories/project/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Anime</title>
       <link>https://nurik125.github.io/Hugo-blog-site/categories/anime/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://nurik125.github.io/Hugo-blog-site/categories/anime/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/categories/education/</link>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://nurik125.github.io/Hugo-blog-site/categories/education/</guid>
       <description></description>
       
     </item>

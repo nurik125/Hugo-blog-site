@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Work efficiently with vscode</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/posts/work-efficiently-with-vscode/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/posts/work-efficiently-with-vscode/</guid>
+      <description>Explain how to sync obsidian posts and hugo posts using created script</description>
+      
+    </item>
     
     <item>
       <title>It took me 10&#43; years to realize what I’ll tell you in 8 minutes</title>
