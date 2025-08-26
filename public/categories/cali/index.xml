@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cali on Blowfish</title>
+    <link>http://localhost:1313/Hugo-blog-site/categories/cali/</link>
+    <description>Recent content in Cali on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Nurasik12</copyright>
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Hugo-blog-site/categories/cali/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/Hugo-blog-site/about/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Hugo-blog-site/about/</guid>
+      <description>About this project</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
+    <title>Nurasyl&#39;s Modular Blog</title>
     <link>https://nurik125.github.io/Hugo-blog-site/</link>
-    <description>Recent content on Blowfish</description>
+    <description>Recent content on Nurasyl&#39;s Modular Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/about/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/about/</guid>
+      <description>About this project</description>
+      
+    </item>
     
     <item>
       <title>Work efficiently with vscode</title>
@@ -47,16 +57,6 @@
       <guid>https://nurik125.github.io/Hugo-blog-site/posts/why-i-love-tsuki-ga-michibiku-isekai-douchuu-my-interpretation/</guid>
       <description>Express your feelings towards anime called Tsuki ga Michibiku Isekai Douchuu/ Лунное путешествие приведет мир к новому миру</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nurik125.github.io/Hugo-blog-site/posts/why-i-love-tsuki-ga-michibiku-isekai-douchuu-my-interpretation/feature_Why%20I%20love%20Tsuki%20ga%20Michibiku%20Isekai%20Douchuu%20%28My%20interpretation%29.jpg" />
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nurik125.github.io/Hugo-blog-site/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nurik125.github.io/Hugo-blog-site/about/</guid>
-      <description></description>
-      
     </item>
     
   </channel>

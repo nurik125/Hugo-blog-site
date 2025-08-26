@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-# colorScheme = "blowfish"
-colorScheme = "Slate"
+colorScheme = "blowfish"
+# colorScheme = "Slate"
 
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
@@ -22,11 +22,11 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = true
+disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "/img/default_background.jpg" # used as default for background images
+defaultFeaturedImage = "/img/default_feature.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
 # highlightCurrentMenuArea = true
@@ -50,7 +50,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/card.jpg" # used in: hero, and card
+  homepageImage = "img/card.png" # used in: hero, and card
   mainSections = ["blog"]
   showRecent = true
   showRecentItems = 5
@@ -59,18 +59,18 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
-  disableHeroImageFilter = false # only used when layout equals hero
+  disableHeroImageFilter = true # only used when layout equals hero
 
   
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
-  # showAuthorBottom = false
+  showAuthorBottom = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -163,7 +163,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [buymeacoffee]
   identifier = ""
   globalWidget = true
-  globalWidgetMessage = "Hello"
+  globalWidgetMessage = "Buy me coffee"
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "Right"
 

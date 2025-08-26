@@ -4,7 +4,13 @@
 
   <url>
     <loc>https://nurik125.github.io/Hugo-blog-site/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nurik125.github.io/Hugo-blog-site/about/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -35,11 +41,6 @@
   <url>
     <loc>https://nurik125.github.io/Hugo-blog-site/posts/why-i-love-tsuki-ga-michibiku-isekai-douchuu-my-interpretation/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nurik125.github.io/Hugo-blog-site/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
