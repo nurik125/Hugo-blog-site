@@ -20,7 +20,6 @@ enableEmoji = true
 googleAnalytics = "G-QB2V7XDQG2"
 
 title = "Nurasyl's Modular Blog"
-titleCaseStyle = "chicago"
 
 [params.author]
   name = "Nurasik12"
@@ -30,7 +29,8 @@ titleCaseStyle = "chicago"
   links = [
     { twitter = "https://twitter.com/" },
     { youtube = "https://youtube.com/" },
-    { github = "https://github.com/nurik125" }
+    { github = "https://github.com/nurik125" },
+    { whatsapp = "https://wa.me/77477512062" }
   ]
 
 
@@ -83,3 +83,11 @@ titleCaseStyle = "chicago"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[services]
+  [services.disqus]
+    shortname = 'Nurasik'
+
+[privacy]
+  [privacy.disqus]
+    disable = false

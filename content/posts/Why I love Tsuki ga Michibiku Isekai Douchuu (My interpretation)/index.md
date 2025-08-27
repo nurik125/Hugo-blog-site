@@ -1,5 +1,6 @@
 ---
 title: Why I love Tsuki ga Michibiku Isekai Douchuu/ Лунное путешествие приведет мир к новому миру?
+decription:
 summary: Express your feelings towards anime called Tsuki ga Michibiku Isekai Douchuu/ Лунное путешествие приведет мир к новому миру
 date: 2025-08-09
 tags:

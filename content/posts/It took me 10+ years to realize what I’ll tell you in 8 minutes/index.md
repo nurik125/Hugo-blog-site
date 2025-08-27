@@ -1,5 +1,6 @@
 ---
 title: It took me 10+ years to realize what I’ll tell you in 8 minutes
+decription:
 summary: Summarize the main takeaways
 date: 2025-08-09
 tags:

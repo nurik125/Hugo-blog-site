@@ -1,5 +1,6 @@
 ---
 title: How to sync after blog writing?
+decription:
 summary: Explain how to sync obsidian posts and hugo posts using created script
 date: 2025-08-19
 tags:
