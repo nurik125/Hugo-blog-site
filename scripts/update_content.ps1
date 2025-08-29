@@ -41,12 +41,12 @@ if (($Confirm_git -ieq "y") -or ($Confirm_git -ieq "yes")){
     Remove-Item $temp_dir -Recurse -Force
 
     # Building hugo site
-    hugo
+    hugo -e production
 
     # pushing changes commit to git repo
     git add .
 
-    $answer = Read-Host "Type the commit message: "
+    $answer = Read-Host "Type the commit message"
 
     git commit -m $answer
 
