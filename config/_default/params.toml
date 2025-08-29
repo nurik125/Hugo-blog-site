@@ -49,8 +49,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/card.png" # used in: hero, and card
+  layout = "heroAndBackground" # valid options: page, profile, hero, card, background, custom (heroAndBackground)
   mainSections = ["blog"]
   showRecent = true
   showRecentItems = 5
@@ -58,10 +57,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showMoreLinkDest = "./posts/"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
-  disableHeroImageFilter = true # only used when layout equals hero
 
-  
+  homepageImage = "/background.gif" # used in: hero, and card {If layout = "heroAndBackground" => homepageImage goes as background asset, so add homepageHero for hero asset}
+  layoutBackgroundBlur = false # only used when layout equals background
+  disableBackgroundImageFilter = true
+
+  homepageHeroImage = "/img/card.png"
+  disableHeroImageFilter = true # only used when layout equals hero
 
 [article]
   showDate = true
