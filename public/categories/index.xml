@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Education</title>
@@ -65,16 +75,6 @@
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://nurik125.github.io/Hugo-blog-site/categories/essay/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</link>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</guid>
       <description></description>
       
     </item>
