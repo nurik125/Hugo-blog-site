@@ -2852,6 +2852,11 @@
       max-width: var(--container-7xl);
     }
   }
+  .lg\:max-w-\[50vw\] {
+    @media (width >= 1024px) {
+      max-width: 50vw;
+    }
+  }
   .lg\:max-w-none {
     @media (width >= 1024px) {
       max-width: none;
