@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Youtube</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Review</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/review/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</guid>
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Кино И Культура</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/%D0%BA%D0%B8%D0%BD%D0%BE-%D0%B8-%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/%D0%BA%D0%B8%D0%BD%D0%BE-%D0%B8-%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Математика И Логика</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0/</guid>
       <description></description>
       
     </item>
@@ -22,9 +42,39 @@
     <item>
       <title>Education</title>
       <link>https://nurik125.github.io/Hugo-blog-site/categories/education/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://nurik125.github.io/Hugo-blog-site/categories/education/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/mathematics/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/mathematics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>School</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/school/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/school/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nurik125.github.io/Hugo-blog-site/categories/youtube/</guid>
       <description></description>
       
     </item>
