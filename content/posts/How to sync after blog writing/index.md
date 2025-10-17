@@ -12,7 +12,7 @@ categories:
   - Obsidian
 status: Inprogress
 ---
-![[feature_programming.png]]
+
 1) Navigate to hugo server destination
 > PATH: D:\My_codes\Pet projects\Publishing_Obsidian_Markup
 2) Insert this
@@ -20,4 +20,4 @@ status: Inprogress
 py ./scripts/update_content.py
 ```
 
-![[Pasted image 20250822144031.png]]
+![Image Description](/img/Pasted_image_20250822144031.png)

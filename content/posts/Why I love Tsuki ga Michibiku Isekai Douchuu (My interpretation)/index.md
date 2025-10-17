@@ -11,7 +11,7 @@ categories:
   - Essay
 status: Inprogress
 ---
-![[feature_Why I love Tsuki ga Michibiku Isekai Douchuu (My interpretation).jpg]]
+
 
 Today I completed watching the second season of Tsuki ga Michibiku Isekai Douchuu (TMID), an anime that I love for its characters, dynamics, and well delivered topics. Easy flow of the show facilitates the parallels with real word, making it easier to deduce the key takeaways of it. Such as following the fate is misery, one should have his boundaries set and protected, being rational and helpful is what brings true results.
 	Important thing that differentiates this anime from others is <span style="color:red">well minded MC</span>. Throughout the series Makoto Misumi's determination to fight the goddess %% (creature that unfairly praises human rase)%% creates great dynamics that lead to non-standard obstacles. Specifically in the series, goddess grants Makoto ability to talk in all languages excluding human (universal). Due to it, ugly face and frightening mana MC experiences great hatred and decides to collaborate with no-human creatures and maintains neutrality between humans, no-humans and demons specifically.
@@ -41,7 +41,7 @@ You’re trying to **be reflective**, which is excellent — but the ending feel
     
 - “Creating sort of acceptance” doesn’t explain what is accepted.
 
-![[peak.jpg]]
+![Image Description](/img/peak.jpg)
 
 **Suggestion**: Be specific about what _you_ felt or realized. Even just one or two clear emotional or thematic insights would make this stronger. %%
 

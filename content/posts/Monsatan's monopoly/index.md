@@ -13,7 +13,7 @@ status: Inprogress
 ---
 Detailed analysis of this story you can expect from [Viretasium's video: "Exposing the Monsanto Conspiracy"](https://www.youtube.com/watch?v=CxVXvFOPIyQ&t=2576s&ab_channel=Veritasium)
 
-![[feature_monsanto.jpg]]
+
 
 Monsanto – or how it is often called by US residents Monsatan – already had been doing its money-hungry business for more than 10 years. During the period of which happened to distribute noxious chemical weapons, provoke inner conflicts between farmers (leading to lethal accidents), and create conspiracy just to have monopoly over crops and farmlands.
 

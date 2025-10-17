@@ -1,5 +1,5 @@
 # 1
-![[Pasted image 20250920134750.png]]
+![Image Description](/img/Pasted_image_20250920134750.png)
 ## My answer(under a minute):
 This photo depicts a woman and her dog sitting in front of a lake. They are observing the beauties of the nature and embracing the calmness, hopefully. I believe dog is old and she is gonna miss it.
 ## Reflection
@@ -15,7 +15,7 @@ This photo depicts a woman and her dog sitting in front of a lake. They are obse
 ## Revised version(no time restrictions)
 This photo depicts a woman and her dog sitting near a lake on the yellow grass. It appears they are enjoying the beauty of nature. Nevertheless, due to the unusual dark yellow tone of the picture, the image seems unsettling, suggesting that it may have deeper, more dramatic undertones.
 # 2
-![[Pasted image 20250920140321.png]]
+![Image Description](/img/Pasted_image_20250920140321.png)
 ## My answer(under a minute):
 This photo shows a puppy ling on the keyboard of ASUS laptop. It appears puppy is worried about something, as its eyes suggests. I speculate that it may be about its owner.
 ## Reflection
@@ -31,7 +31,7 @@ This photo shows a puppy ling on the keyboard of ASUS laptop. It appears puppy i
 ## Revised version(no time restrictions)
 In this photo, we can see a cute brown puppy resting its head on someone's laptop. The dog appears concerned about something, as if it is waiting for its owner to return so they can continue playing.
 # 3
-![[Pasted image 20250920144255.png]]
+![Image Description](/img/Pasted_image_20250920144255.png)
 ## My answer(under a minute):
 In this photo, someone is squishing a dough. The dough appears unusually yellow, which raises major concerns in me. Nevertheless, I hope they flavor and ...
 ## Reflection
@@ -46,7 +46,7 @@ In this photo, someone is squishing a dough. The dough appears unusually yellow,
 ## Revised version(no time restrictions)
 This image illustrates the process of a dough being pushed on the brown wooden table. Scattered grains of flour on the table also suggest that it was applied before the pressing process. I wonder what form this amorphous dough will take eventually. 
 # 4
-![[Pasted image 20250920150256.png]]
+![Image Description](/img/Pasted_image_20250920150256.png)
 ## My answer(under a minute):
 In this picture, two old women possibly having great time together. The one on the left is massaging the one on the right.
 ## Reflection
@@ -60,7 +60,7 @@ In this picture, two old women possibly having great time together. The one on t
 ## Revised version(no time restrictions)
 In this picture, two elderly women seem to be enjoying each other's company. It appears the woman on the left is massaging the shoulders of her friend on the right to help her relax.
 # 5
-![[Pasted image 20250920151325.png]]
+![Image Description](/img/Pasted_image_20250920151325.png)
 ## My answer:
 This is a picture of a train subway that has no passengers. Nevertheless, its polished and brand new shining colors suggest me that it is a brand new train.
 ## Reflection
@@ -72,7 +72,7 @@ This is a picture of a train subway that has no passengers. Nevertheless, its po
 ## Revision(no time restrictions)
 This is a picture of completely empty subway train. Nevertheless, natural reflections of light on the seats suggest that the colors and the train itself might be brand new. Therefore, I speculate that more people will begin using it in the near future.
 # 6
-![[Pasted image 20250920152118.png]]
+![Image Description](/img/Pasted_image_20250920152118.png)
 ## My answer:
 This is a photo of two main attractions in amusement park. Both rides appear to be spinning quickly, which created a blur effect on the spinning parts of rides.
 ## Reflection
@@ -85,7 +85,7 @@ This is a photo of two main attractions in amusement park. Both rides appear to 
 ## Revision(no time restrictions)
 This is a photo of two main attractions in **an** amusement park. Both rides appear to be spinning quickly, which **creates** a blur effect on the spinning parts of **the** rides.
 # 7
-![[Pasted image 20250920152756.png]]
+![Image Description](/img/Pasted_image_20250920152756.png)
 ## My answer:
 This image depicts a beautiful women possibly dressed according to Indian conventional style with purple scarf around her neck and shoulders. It appears she is throwing some colored grains of dust or sand as a part of some event.
 ## Reflection
